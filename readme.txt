@@ -12,4 +12,4 @@ Running
 
 Hacking
 
-	To see different results, try modifying DEPTH, number of iterations or verticies coordinates in main.c
+	To see different results, try modifying DEPTH, number of iterations or verticies coordinates in main.c.
